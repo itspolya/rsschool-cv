@@ -1,1 +1,1 @@
-https://GITHUB-itspolya.github.io/rsschool-cv/cv
+https://itspolya.github.io/rsschool-cv/cv
