@@ -30,6 +30,8 @@
 ****
 
 ## About Me
+
+
 I am 24 years old and I moved from Russia to Georgia 3 months ago. I'm a chemist by training, but I've been drawn to IT for a long time. And here I am in the JS/FE prep course. I am ready to study a lot, to learn and to learn again. I am diligent and purposeful and I believe that these qualities will help me become an excellent specialist.
 
 
