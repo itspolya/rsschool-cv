@@ -55,16 +55,36 @@ I am 24 years old and I moved from Russia to Georgia 3 months ago. I'm a chemist
 *********
 
 ## Code example:
+
+
 ```
 function multiply(a, b){
   return a * b
 }
 ```
+
+
 ***********
+
+
 ## Education:
+
+
 __University:__ Saratov State Technical University "Chemical Technologies"
+
+
 In the near future there will be many more interesting points :)
+
+
 ******
+
+
 ## Languages:
-*Russian - native speaker
+
+
+*Russian - native 
+
+
 *Basic English (in the process of training)
+
+
