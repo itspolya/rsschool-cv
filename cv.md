@@ -11,19 +11,19 @@
 ## Contact information:
 
 
-\*__Location:__ Georgia, Batumi
+\__Location:__ Georgia, Batumi
 
 
-\*__Phone:__ +995-599-120-974
+\__Phone:__ +995-599-120-974
 
 
-\*__Telegram:__ @its_polya
+\__Telegram:__ @its_polya
 
 
-\*__E-mail:__ sharova.polin@gmail.com
+\__E-mail:__ sharova.polin@gmail.com
 
 
-\*__GitHub:__[itspolya](https://github.com/itspolya)
+\__GitHub:__[itspolya](https://github.com/itspolya)
 
 
 
@@ -41,16 +41,16 @@ I am 24 years old and I moved from Russia to Georgia 3 months ago. I'm a chemist
 ## Skills:
 
 
-\*HTML;
+\HTML;
 
 
-\*CSS/SASS;
+\CSS/SASS;
 
 
-\*JavaScript (Basic);
+\JavaScript (Basic);
 
 
-\*Git, GitHub;
+\Git, GitHub;
 
 
 
