@@ -11,7 +11,7 @@
 ## Contact information:
 
 
-\- __Location:__ Georgia, Batumi
+- __Location:__ Georgia, Batumi
 
 
 - __Phone:__ +995-599-120-974
@@ -84,9 +84,9 @@ In the near future there will be many more interesting points :)
 ## Languages:
 
 
-Russian - native 
+- Russian - native 
 
 
-Basic English (in the process of training)
+- Basic English (in the process of training)
 
 
