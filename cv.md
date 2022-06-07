@@ -1,12 +1,22 @@
 # Sharova Polina
 
+
 ****
 
+
 ## JS/FE Pre-School 2022 Student from RSSCHOOL
+
 ****
+
 ## Contact information:
+
+
 \*__Location:__ Georgia, Batumi
+
+
 \*__Phone:__ +995-599-120-974
+
+
 \*__Telegram:__ @its_polya
 \*__E-mail:__ sharova.polin@gmail.com
 \*__GitHub:__[itspolya](https://github.com/itspolya)
